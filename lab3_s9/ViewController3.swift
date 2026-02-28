@@ -1,36 +1,21 @@
 //
 //  ViewController3.swift
-//  lab2_sekcjaX
+//  lab3_s9
 //
-//  Created by student on 25/11/2025.
+//  Created by student on 16/01/2026.
 //
 
 import UIKit
 
-
-//definicja protokolu
-
-protocol myProtocol{
-    func protocolFunction(smile: Float)
-}
-
 class ViewController3: UIViewController {
 
-    //odbiorca informacji - viewController
-    var delegate: myProtocol?
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-    @IBOutlet weak var happySlider: UISlider!
-    
-   
-    @IBAction func returnButton(_ sender: UIButton) {
-        delegate?.protocolFunction(smile: happySlider.value)
-        
-    }
+
     /*
     // MARK: - Navigation
 

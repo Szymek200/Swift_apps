@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  lab2_sekcjaX
+//  lab3_s9
 //
-//  Created by MM on 21/11/2022.
+//  Created by student on 16/01/2026.
 //
 
 import UIKit
