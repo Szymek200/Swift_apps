@@ -7,7 +7,7 @@ This repository contains a collection of iOS applications developed to explore t
 
 ## Contents
 
-### 1. Precision Slider Game
+### 1. Pointer Hunter
 An accuracy-based game where players must match a target value using a slider.
 * **Core Mechanic**: Random target generation (1–100) and precision matching.
 * **Scoring**: Dynamic point calculation based on the absolute difference between the slider and the target.
